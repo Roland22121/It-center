@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/It-center/static/css/main.f79df55a.css",
+    "main.js": "/It-center/static/js/main.0e639889.js",
+    "static/media/nkar1.jpg": "/It-center/static/media/nkar1.521a11818547d5d5501c.jpg",
+    "index.html": "/It-center/index.html",
+    "main.f79df55a.css.map": "/It-center/static/css/main.f79df55a.css.map",
+    "main.0e639889.js.map": "/It-center/static/js/main.0e639889.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f79df55a.css",
+    "static/js/main.0e639889.js"
+  ]
+}
